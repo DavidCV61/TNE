@@ -2,7 +2,14 @@
 
 Aplicacion con Laravel, Quasar + Vue 3  y PostgreSQL.
 
-## Desarrollo local (sin Docker)
+## Git Clone
+
+```bash
+git clone https://github.com/DavidCV61/TNE.git
+cd TNE
+```
+
+## Desarrollo local 
 
 Requisitos: PHP 8.4, Composer, Node.js 22, PostgreSQL.
 
